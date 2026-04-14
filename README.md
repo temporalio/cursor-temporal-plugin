@@ -8,10 +8,15 @@ This repository provides a [Cursor plugin](https://cursor.com/docs/plugins) for 
 
 ## Installation
 
-1. Open Cursor Settings
-2. Navigate to the Plugins section
-3. Search for `temporal-developer` or add this repository URL
-4. Enable the plugin
+This plugin is not yet available in the Cursor marketplace. To install it locally:
+
+1. Clone this repository
+2. Copy it into your Cursor local plugins directory:
+   ```bash
+   cp -r cursor-temporal-plugin ~/.cursor/plugins/local/temporal-developer
+   ```
+3. Restart Cursor
+4. Navigate to **Settings → Plugins** and verify the plugin is listed
 
 ## What's Included
 
