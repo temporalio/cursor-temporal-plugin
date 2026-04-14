@@ -20,6 +20,6 @@
     "microservices",
     "distributed-systems"
   ],
-  "logo": "./assets/temporal-logo.svg",
+  "logo": "assets/temporal-logo.svg",
   "skills": "./skills/"
 }
