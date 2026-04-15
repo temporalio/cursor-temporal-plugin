@@ -8,7 +8,15 @@ This repository provides a [Cursor plugin](https://cursor.com/docs/plugins) for 
 
 ## Installation
 
-This plugin is not yet available in the Cursor marketplace. To install it locally:
+Install from the [Cursor Marketplace](https://cursor.com/marketplace/temporal), or run the following command in Cursor's agent chat:
+
+```
+/add-plugin temporal-developer
+```
+
+### Manual installation
+
+To install locally by cloning the repository:
 
 1. Clone this repository
 2. Copy it into your Cursor local plugins directory:
