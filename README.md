@@ -1,6 +1,6 @@
-# Temporal Developer Plugin for Cursor
+# Temporal Plugin for Cursor
 
-This repository provides a [Cursor plugin](https://cursor.com/docs/plugins) for developing [Temporal](https://temporal.io/) applications.
+This repository provides a [Cursor plugin](https://cursor.com/docs/plugins) for working with [Temporal](https://temporal.io/) — developing applications, using the CLI, managing server, and working with Temporal Cloud.
 
 > [!WARNING]
 > This plugin is in Public Preview, and will continue to evolve and improve.
@@ -11,7 +11,7 @@ This repository provides a [Cursor plugin](https://cursor.com/docs/plugins) for 
 Install from the [Cursor Marketplace](https://cursor.com/marketplace/temporal), or run the following command in Cursor's agent chat:
 
 ```
-/add-plugin temporal-developer
+/add-plugin temporal
 ```
 
 ### Manual installation
